@@ -59,9 +59,6 @@ The primary objectives of the Agriculture Management System are:
 
   * Access high-level insights and reports to support policy-making and system improvements.
 
-* System Maintenance:
-
-  * Update system configurations, algorithms, and data sources.
 
 ## Methodology
 
@@ -109,7 +106,6 @@ The system follows a structured methodology for data collection, processing, and
 
 * Machine Learning: Python (Random Forest, XGBoost models)
 
-* Hardware Integration: IoT sensors for real-time data collection
 
 ## Conclusion
 
